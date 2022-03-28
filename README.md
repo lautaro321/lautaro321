@@ -12,8 +12,9 @@ Habilidades: NODEJS / JAVASCRIPT / REACT / JS / HTML / CSS / EXPRESS / SEQUELIZE
 
 estos son los proyectos que e realizado.
 
+![proyecto remodelado](https://user-images.githubusercontent.com/86445983/160482140-c3bfad53-1d7f-4934-8319-bdb07b6badfa.png)
 
-![proyectoindividual](https://user-images.githubusercontent.com/86445983/160479300-f852cfd9-cbf3-464d-88cc-7699d2aba9c6.png)
+
 
 Creacion de una aplicación en la cual se puedan ver las distintas recetas disponibles junto con información relevante de las mismas utilizando la api externa Spoonacular y a partir de ella poder, entre otras cosas:
 
